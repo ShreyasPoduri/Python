@@ -5,6 +5,7 @@ print("Guess a number between 1 and 20:     ")
 
 attempts = 0
 
+
 while True:
     attempts=+1
 
