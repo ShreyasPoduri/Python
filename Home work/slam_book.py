@@ -22,6 +22,7 @@ def collect_friend_info():
 
     return friend_info
 
+
 # Save multiple entries
 def main():
     slam_book = []
