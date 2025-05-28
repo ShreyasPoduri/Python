@@ -126,7 +126,7 @@ class RpsGame():
                             run = False
                     
                         if event.type == pygame.MOUSEBUTTONDOWN:
-                            
+                            if self.rock_button
                     
 
 
